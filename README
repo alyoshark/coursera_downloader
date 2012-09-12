@@ -1,0 +1,16 @@
+This is a small utility to download the open course videos on Coursera in batch.
+
+Step 1:
+Enroll into a class.
+
+Step 2:
+Save the page with video watching as an html file called source.html.
+
+Step 3:
+Export the cookie for Coursera using Chrome or Firefox plugins and name it as cookies.txt.
+
+Step 4:
+Put all these things and the code under the same folder.
+
+Step 5:
+Then run perl downloader.pl and wait for the download to complete!
